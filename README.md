@@ -1,4 +1,4 @@
-#Food display
+# Food dsiplay
 
 a simple food display website to show different types of food
 
